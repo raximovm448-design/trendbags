@@ -1,0 +1,6 @@
+{
+  "name": "COACH Men's Bags Collection",
+  "description": "An elegant, fully interactive web application showcasing a premium collection of men's bags, featuring advanced product filtering, color swatch selectors, local cart management, dynamic search options, and a seamless checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
